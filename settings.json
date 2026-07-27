@@ -1,0 +1,16 @@
+{
+    "artists": [
+        "https://youtu.be/Z82CQwEITgY"
+    ],
+    "limit": 10,
+    "output_dir": "C:/Users/Offic/OneDrive/Desktop",
+    "download_mp3": true,
+    "skip_shorts": true,
+    "skip_downloaded": true,
+    "official_only": true,
+    "embed_thumbnail": true,
+    "add_metadata": true,
+    "high_quality": true,
+    "bitrate": "128",
+    "antiban": true
+}
